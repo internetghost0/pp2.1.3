@@ -5,7 +5,6 @@ $ mvn test
 ```
 ```
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.961 sec
-:w
 
 Results :
 
